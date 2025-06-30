@@ -13,7 +13,6 @@ namespace VRT.Pilots.ProductionMeeting
         {
 
             // Load the portal scene when the user clicks the button
-            //sceneName = sceneChangeButton[0].GetComponentInChildren<SceneName>().sceneName;
             LoadNewScene(sceneName);
         }
 
