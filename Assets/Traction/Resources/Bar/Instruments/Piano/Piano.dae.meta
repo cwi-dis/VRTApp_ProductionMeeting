@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: af4431d29a025ef4eb9100e8981093ac
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_leather_mt
+    second: {fileID: 2100000, guid: f5bf107e3323a9e4690ad13ec2097c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_wood_mt
+    second: {fileID: 2100000, guid: f18f5404cb0b9584b82975f04631c3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_frame_mt
+    second: {fileID: 2100000, guid: 73a3a47338b324c4b8ef8ee2bb6bf79a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_hinji01_mt
+    second: {fileID: 2100000, guid: ef95007b58d537542b480ae70c3201ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_hinji02_mt
+    second: {fileID: 2100000, guid: c53abf1ce4497d74192497e1a48a5827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_key_black
+    second: {fileID: 2100000, guid: 45450b95c5c171e41996cb4edd193462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_key_white
+    second: {fileID: 2100000, guid: 40b8ffbcdd571dd4297091b434d058e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_leg_roller01_mt
+    second: {fileID: 2100000, guid: 7df4469c31250b2418d27591481a4fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_leg_wood01_mt
+    second: {fileID: 2100000, guid: 467fb8cb67a8e6148bb64810e19e0be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_lid01_mt
+    second: {fileID: 2100000, guid: 9cdc5dcb2567f4246a1f7c0e896fbeb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_lid02_mt
+    second: {fileID: 2100000, guid: 57f6e9ed6cfbc3a4fba098a516e8080f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part01_mt
+    second: {fileID: 2100000, guid: 069b55beb043f964cb50e996ba4ec35c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part02_mt
+    second: {fileID: 2100000, guid: 7dd5b30a70931fe41bb19ed3f3a0f53c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part03_mt
+    second: {fileID: 2100000, guid: 1e9b3de196bf82d44b9f1a97be7c61a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part04_mt
+    second: {fileID: 2100000, guid: 04c900c0b7cb0334a892072998c9e91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part05_mt
+    second: {fileID: 2100000, guid: d57705c33f277e44c827aad4b8f32fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part06_mt
+    second: {fileID: 2100000, guid: 3f8be4e2e9d89c8468ed7e7f1c73d49e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part07_mt
+    second: {fileID: 2100000, guid: 327ef7490a90bfb4483946ac7897227a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_part08_mt
+    second: {fileID: 2100000, guid: f70da7e519be88445b96a78cbce87f09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_pedal_metal_mt
+    second: {fileID: 2100000, guid: cb6dc7c9d6913c14297e948e5305985d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_plate_mt
+    second: {fileID: 2100000, guid: 0285227aaab64234f87d28cda40f5d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_stand_mt
+    second: {fileID: 2100000, guid: 85b594a150e1d754ebcbfe96410cb55c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
